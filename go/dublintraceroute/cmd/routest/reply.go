@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	inet "github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/net"
+	inet "github.com/awlx/dublin-traceroute/go/dublintraceroute/net"
 	"golang.org/x/net/ipv4"
 )
 

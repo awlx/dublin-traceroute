@@ -5,7 +5,7 @@ package dublintraceroute
 import (
 	"time"
 
-	"github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/results"
+	"github.com/awlx/dublin-traceroute/go/dublintraceroute/results"
 )
 
 // default values and constants

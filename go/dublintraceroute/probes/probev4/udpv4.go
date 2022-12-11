@@ -11,9 +11,9 @@ import (
 	"net"
 	"time"
 
-	inet "github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/net"
-	"github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/probes"
-	"github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/results"
+	inet "github.com/awlx/dublin-traceroute/go/dublintraceroute/net"
+	"github.com/awlx/dublin-traceroute/go/dublintraceroute/probes"
+	"github.com/awlx/dublin-traceroute/go/dublintraceroute/results"
 	"golang.org/x/net/ipv4"
 )
 
